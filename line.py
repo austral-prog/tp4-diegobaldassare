@@ -12,7 +12,7 @@ def line():
     print(f"El coeficiente B de su ecuación de la recta es: {b}")
     print(f"El coeficiente X1 de su ecuación de la recta es: {x1}")
     print(f"El coeficiente X2 de su ecuación de la recta es: {x2}")
-    print(f"\nPara la siguiente ecuación:\nY = {a}X + {b}\n")
+    print(f"\nPara la siguiente ecuación:\n\tY = {a}X + {b}\n")
     print(f"Dados los siguientes puntos:\n\tP1 ({x1}, {y1})\n\tP2 ({x2}, {y2})\n")
 
     # https://es.wikipedia.org/wiki/Distancia#Distancia_de_dos_puntos_en_el_plano
